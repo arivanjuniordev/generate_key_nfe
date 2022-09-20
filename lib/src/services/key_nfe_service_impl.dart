@@ -1,8 +1,8 @@
-import 'package:generate_key_nfe/src/dto/key_nfe_dto.dart';
-import 'package:generate_key_nfe/src/services/key_nfe_service.dart';
 import 'package:modulo11/exports.dart';
 
+import '../dto/key_nfe_dto.dart';
 import '../helpers/uf.dart';
+import 'key_nfe_service.dart';
 
 class KeyNfeServiceImpl implements KeyNfeServices {
   @override

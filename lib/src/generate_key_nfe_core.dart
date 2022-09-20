@@ -1,6 +1,5 @@
-import 'package:generate_key_nfe/src/services/key_nfe_service_impl.dart';
-
 import 'dto/key_nfe_dto.dart';
+import 'services/key_nfe_service_impl.dart';
 
 class GenerateKeyNfe {
   static String generate(KeyNfeDto params) {

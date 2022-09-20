@@ -1,6 +1,6 @@
 name: generate_key_nfe
-description: Generate Key NFE.
-version: 0.0.1
+description: Lib Generate Key NFE.
+version: 0.0.3
 repository: https://github.com/arivanjuniordev/generate_key_nfe
 # homepage: https://www.example.com
 
