@@ -1,6 +1,7 @@
 name: generate_key_nfe
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: Generate Key NFE.
+version: 0.0.1
+repository: https://github.com/arivanjuniordev/generate_key_nfe
 # homepage: https://www.example.com
 
 environment:
